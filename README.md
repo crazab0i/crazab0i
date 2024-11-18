@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @crazab0i
+- I'm a computer engineering student at the University of Michigan
+- I like code :)
+- I currently work at the He Lab creating applications of LLMs in database contexts
