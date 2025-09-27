@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @crazab0i
 - I'm a computer engineering student at the University of Michigan
-- I like code :)
 - I currently work at the He Group at the Michigan Medical School creating applications of LLMs in database contexts
+- I also work at the SPADA Lab performing studies on matrix compression techniques.
